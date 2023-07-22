@@ -205,7 +205,7 @@ dunst &
 
 xsetroot -solid '#5A8E3A'
 # xsetroot -cursor_name left_ptr &
-feh --bg-fill /home/rohits/mydata/Pictures/wallpapers/0051.jpg &
+feh --bg-fill /home/rohits/mydata/home/Pictures/wallpapers/0051.jpg &
 /home/rohits/.config/herbstluftwm/hlwm
 
 #keybindings are in config of sxhkd - interchangeable with other TWM
